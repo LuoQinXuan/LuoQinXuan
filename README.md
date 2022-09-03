@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LuoQinXuan
 - 👀 I’m interested in C
 - 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on How to learn GNU+Linux
 - 📫 How to reach me sunsan2021@163.com
 
 <!---
